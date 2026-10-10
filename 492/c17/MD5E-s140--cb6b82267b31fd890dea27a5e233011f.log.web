@@ -1,0 +1,10 @@
+1791646258s 1 https://dandiarchive.s3.amazonaws.com/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/extensions/quality_metrics/metrics/sd_ratio/0?versionId=_.4iu9g9f7TwbSn3Q86SrALblQfARtek
+1791646258s 1 https://api.dandiarchive.org/api/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fsd_ratio%2F0&download=true
+1791646258s 1 https://dandiarchive.s3.amazonaws.com/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/extensions/quality_metrics/metrics/snr/0?versionId=4cRUErIiJvDustb64GY2hFGJqUf_B7lU
+1791646258s 1 https://api.dandiarchive.org/api/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fsnr%2F0&download=true
+1791646262s 1 https://dandiarchive.s3.amazonaws.com/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/extensions/template_metrics/metrics/spread/0?versionId=g8CxyZ_2brxWvuwjhIb6Ec8ifd62_qtR
+1791646262s 1 https://api.dandiarchive.org/api/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fspread%2F0&download=true
+1791646262s 1 https://dandiarchive.s3.amazonaws.com/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/extensions/template_metrics/metrics/velocity_above/0?versionId=SZCBQXqIdLlMBzVLjyg.IuG0OGVWCV86
+1791646262s 1 https://api.dandiarchive.org/api/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fvelocity_above%2F0&download=true
+1791646262s 1 https://dandiarchive.s3.amazonaws.com/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/extensions/template_metrics/metrics/velocity_below/0?versionId=nHXKIHvapJguFkSa02tpV740xjaf3Ckd
+1791646262s 1 https://api.dandiarchive.org/api/zarr/6e2dd0a7-06bd-4323-83b5-e2750759f4e5/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fvelocity_below%2F0&download=true
